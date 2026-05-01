@@ -1,5 +1,15 @@
 # Posts
 
+## Table of Contents
+
+- [Get All Posts](#get-all-posts)
+- [Get Single Post](#get-single-post)
+- [Create Post](#create-post)
+- [Update Post (PUT)](#update-post-put)
+- [Update Post (PATCH)](#update-post-patch)
+- [Delete Post](#delete-post)
+- [Error Responses](#error-responses)
+
 ## Overview
 
 The Posts endpoint allows you to retrieve, create, update, and delete blog posts. Each post belongs to a user and contains a title and body.
