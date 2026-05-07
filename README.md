@@ -11,8 +11,8 @@ Beginner-friendly REST API documentation for JSONPlaceholder, written as a docs-
 | Resource | Methods Documented | Description |
 |----------|-------------------|-------------|
 | [Posts](docs/posts.md) | GET, POST, PUT, PATCH, DELETE | Blog posts with title and body |
-| Comments | GET | Comments on blog posts |
-| Albums | GET, POST | Photo albums |
+| [Comments](docs/comments.md) | GET | Comments on blog posts |
+| [Albums](docs/albums.md) | GET, POST | Photo albums |
 | Photos | GET | Individual photos |
 | Todos | GET, PATCH | To-do items with completion status |
 | Users | GET | User profiles with nested data |
